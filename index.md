@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What is it?
+# SAEAES
 
 **SAEAES** is a family of authenticated encryption algorithm developed
 by Mitsubishi Electric Corporation and The University of
