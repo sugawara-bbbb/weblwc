@@ -15,7 +15,7 @@ National Institute of Standards and Technology (NIST).
 * February 25, 2019: Submission Deadline
 * April 18, 2019: Announcement of the Round 1 Candidates
 * May 25, 2019: The web page is open
-* Jun 13, 2019: A minor bug fix in the SAEB paper (typos of Fig. 2), [eprint](https://eprint.iacr.org/2019/700)
+* Jun 13, 2019: A minor bug fix in the SAEB paper (typos of Fig. 2): [the updated paper](https://eprint.iacr.org/2019/700)
 
 # Design
 
