@@ -16,6 +16,7 @@ National Institute of Standards and Technology (NIST).
 * April 18, 2019: Announcement of the Round 1 Candidates
 * May 25, 2019: The web page is open
 * Jun 13, 2019: A minor bug fix in the SAEB paper (typos of Fig. 2): [the updated paper](https://eprint.iacr.org/2019/700)
+* Aug 30, 2019: SAEAES is selected as a [Round 2 Candidate](https://csrc.nist.gov/projects/lightweight-cryptography/round-2-candidates).
 
 # Design
 
