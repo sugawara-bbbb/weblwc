@@ -66,5 +66,4 @@ the ones within the block cipher.
 1. Y. Naito, M. Matsui, T. Sugawara, and D. Suzuki, “SAEB: A Lightweight Blockcipher-Based AEAD Mode of Operation,” IACR Trans. Cryptographic Hardware and Embedded Systems 2018(2): 192-217 (2018), [PDF](https://tches.iacr.org/index.php/TCHES/article/view/885).
 1. Y. Naito, M. Matsui, T. Sugawara, and D. Suzuki, “SAEB: A Lightweight Blockcipher-Based AEAD Mode of Operation,” Cryptology ePrint Archive, Report 2019/700, 2019 [PDF](https://eprint.iacr.org/2019/700).
 1. NIST Lightweight Cryptography Project [link](https://csrc.nist.gov/projects/lightweight-cryptography)
-
-
+1. NIST, "Status Report on the First Round of the NIST Lightweight Cryptography Standardization Process," NISTIR 8268, 2019 [PDF](https://doi.org/10.6028/NIST.IR.8268).
